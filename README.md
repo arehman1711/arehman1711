@@ -1,7 +1,8 @@
 ![image](https://github.com/arehman1711/arehman1711/assets/115952882/4b0a564f-376e-4531-b753-cc0380687998)<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
-<p align="left"> <img src="![image](https://github.com/arehman1711/arehman1711/assets/115952882/9c310f92-238e-43fa-b111-9d9f51dc26c0)
+<p align="left"> 
 " alt="arehman1711" /> </p>
-<img align="right" alt= width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif
+<img align="right" alt= width="400" src="![image](https://github.com/arehman1711/arehman1711/assets/115952882/f49cfeb2-b54c-49c3-b5a8-ebd9fdf536f3)"
+
 - 🔭 I’m currently working on **Online Course managment System**
 
 - 🌱 I’m currently learning **Spring boot framework**
