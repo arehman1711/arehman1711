@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
 <p align="left" alt="arehman1711" /> </p>
-<img align="right" alt= width="400" src="![image](https://github.com/arehman1711/arehman1711/assets/115952882/6f6c458b-1edf-4e81-814a-e3b652ccd77d)
-">
+<img align="right" alt= width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Online Course managment System**
 
