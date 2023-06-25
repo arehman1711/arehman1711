@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arehman1711&label=Profile%20views&color=0e75b6&style=flat" alt="arehman1711" /> </p>
+![image](https://github.com/arehman1711/arehman1711/assets/115952882/4b0a564f-376e-4531-b753-cc0380687998)<h1 align="center">Hi 👋, I'm Abdur Rehman</h1>
+<p align="left"> <img src="![image](https://github.com/arehman1711/arehman1711/assets/115952882/9c310f92-238e-43fa-b111-9d9f51dc26c0)
+" alt="arehman1711" /> </p>
 <img align="right" alt= width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif
 - 🔭 I’m currently working on **Online Course managment System**
 
