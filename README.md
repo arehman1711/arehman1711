@@ -2,9 +2,7 @@
 <p align="left" alt="arehman1711" /> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Online Course managment System**
-
-- 🌱 I’m currently learning **Spring boot framework**
+- 🌱 I’m currently learning **Spring boot**
 
 - 📫 How to reach me **a.rehman1711@gmail.com**
 
